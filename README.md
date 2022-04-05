@@ -3,7 +3,7 @@
 ## Install Selenium Standalone Server on an Ubuntu Linux machine
 ```
 cd ~
-wget https://raw.githubusercontent.com/TasnimNatsheh/selenium-standalone-server/main/install-ubuntu20-04.sh | bash
+bash <(wget -O - https://raw.githubusercontent.com/TasnimNatsheh/selenium-standalone-server/main/install-ubuntu20-04.sh)
 ```
 
 ## Run Selenium Standalone Server
