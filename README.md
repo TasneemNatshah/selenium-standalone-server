@@ -9,5 +9,5 @@ bash <(wget -O - https://raw.githubusercontent.com/TasnimNatsheh/selenium-standa
 ## Run Selenium Standalone Server
 ```
 cd ~ 
-java -jar tasnim-server-standalone-2.53.1.jar -port 4444
+java -jar selenium-server-standalone-2.53.1.jar -port 4444
 ```
